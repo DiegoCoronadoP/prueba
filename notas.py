@@ -14,6 +14,7 @@ def salirsinofunciona():
           return
     resul2=nota2*0.35
     
+    
     nota3=float(input("digite la nota del corte 3: "))
     if nota3<0.1 or nota1>5.0:
           print("numero no valido, digite un numero dentro de las especificaciones")
